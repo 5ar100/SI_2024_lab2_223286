@@ -1,8 +1,8 @@
 # Втора лабораториска вежба по Софтверско инженерство
 ## Петар Стојановски, 223286
 ### Control Flow Graph
-![Control Flow Graph](https://github.com/5ar100/SI_2024_lab2_223286/blob/master/CFG1.png)
-![](https://github.com/5ar100/SI_2024_lab2_223286/blob/master/CFG2.png)
+![Control Flow Graph](https://github.com/5ar100/SI_2024_lab2_223286/blob/master/CFG1_fixed.png)
+![](https://github.com/5ar100/SI_2024_lab2_223286/blob/master/CFG2_fixed.png)
 ### Цикломатска комплексност
 - Цикломатската комплексност ја најдов според бројот на If statements + 1. Цикломатската комплексност е 10.
 ### Every Branch
