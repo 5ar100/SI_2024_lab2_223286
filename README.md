@@ -1,5 +1,7 @@
 # Втора лабораториска вежба по Софтверско инженерство
 ## Петар Стојановски, 223286
+#### My Numbered Lines 
+![](https://github.com/5ar100/SI_2024_lab2_223286/blob/master/Code%20With%20Lines%20Numbered.png)
 ### Control Flow Graph
 ![Control Flow Graph](https://github.com/5ar100/SI_2024_lab2_223286/blob/master/CFG1_fixed.png)
 ![](https://github.com/5ar100/SI_2024_lab2_223286/blob/master/CFG2_fixed.png)
