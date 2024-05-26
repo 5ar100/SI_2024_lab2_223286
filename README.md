@@ -11,4 +11,4 @@
 ![Multiple Condition](https://github.com/5ar100/SI_2024_lab2_223286/blob/master/Multiple%20Condition.png)
 ### Unit Testing
 - За првото тестирање за секоја гранка искористив 5 asserts, 3 за RuntimeExceptions-от и 2 каде што во едниот assert функцијата е true, а во другата false.
-- За Multiple Condition тестирањето искористив по 3 asserts за секој од можните 4 исходи, каде што главниот if-statement го разделив на 3 дела по исходот кој се тестира. 
+- За Multiple Condition тестирањето го поделив if-statement-от на 3 делови и со користење на assertTrue() или assertFalse() ги тестирав сите исходи - TTT, TTF, TFX, FXX
