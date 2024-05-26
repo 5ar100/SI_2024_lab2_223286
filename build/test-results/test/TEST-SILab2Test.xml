@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-26T08:58:56" hostname="DESKTOP-HCK6RET" time="0.024">
+  <properties/>
+  <testcase name="checkCartMultipleCondition()" classname="SILab2Test" time="0.024"/>
+  <system-out><![CDATA[Testing begin
+Testing Multiple Condition - 4 Test Cases
+Testing end
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
